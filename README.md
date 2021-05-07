@@ -1,2 +1,2 @@
-# Project-C-20
-C20 version 1 project
+# p5.play-boilerplate
+Boiler plate for p5.play
